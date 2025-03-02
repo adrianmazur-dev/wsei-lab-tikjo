@@ -28,3 +28,7 @@
 
 ### Terminy:
 - E2E - testy **End To End**
+- Różnice między TypeScript a JavaScript
+    - TS jest językiem typowanym
+    - JS nie ma interfejsów, TS ma
+    - JS kompiluje dopiero po uruchomienia kodu, TS wyświetla informacje i błędy
